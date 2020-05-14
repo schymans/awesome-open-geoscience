@@ -29,6 +29,7 @@ Open geoscience is even more awesome, so we made a list. This list is curated fr
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – ![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – ![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – ![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists
+- [Awesome Ecohydrology](https://github.com/Open-Environmental-Science/awesome-open-hydrology) - ![Awesome](media/icon/awesome.png) Awesome list for ecology, hydrology, ecohydrology and water science
 
 | ▲ [Top](#awesome-open-geoscience) |
 | --- |
